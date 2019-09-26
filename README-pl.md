@@ -17,6 +17,6 @@ Przykłady złych zgłoszeń:
 - Naprawcie wydajność klienta turniejowego (zbyt duży zakres/problem)
 - Naprawcie pp (już pracujemy nad tym [tutaj](https://github.com/ppy/osu-difficulty-calculator))
 
-All osu-stable developers will be reading and responding to every issue posted here. There is a high chance issues will be closed if deemed unfeasible to be quickly resolved.
+Wszyscy twórcy osu-stable będą czytać i odpowiadać na każde zgłoszenie, które zostanie tu dodane. Istnieje duże prawdopodobieństwo, że zgłoszenie zostanie zamknięte, jeżeli zostanie uznane jako wymagające za dużych nakładów pracy lub po prostu nie możliwe do naprawienia.
 
 Prosimy poszukać zanim zgłosicie swoją usterkę!
