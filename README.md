@@ -16,7 +16,7 @@ Examples of invalid reports:
 - Add the ability to change slider curves (scope too large)
 - Fix the tournament client performance (scope too large)
 - Fix pp (already being done [elsewhere](https://github.com/ppy/osu-difficulty-calculator))
-- Wine compatibility issues (seek support from the provider of your install method instead)
+- PC/hardware compatibility issues (ask for help on the [help forum](https://osu.ppy.sh/community/forums/5) instead)
 
 All osu-stable developers will be reading and responding to every issue posted here. There is a high chance issues will be closed if deemed unfeasible to be quickly resolved.
 
